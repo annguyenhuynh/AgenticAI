@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain_community
+langchainhub
+langchain_groq
+langchain-core
+pydantic
+python-dotenv
+arxiv
+wikipedia
